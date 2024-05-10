@@ -1,0 +1,7 @@
+D:\visual studio\BaiTapCodeGym\BaiTapCodeGym\ReadWriteFileXM\bin\Debug\ReadWriteFileXM.exe.config
+D:\visual studio\BaiTapCodeGym\BaiTapCodeGym\ReadWriteFileXM\bin\Debug\ReadWriteFileXM.exe
+D:\visual studio\BaiTapCodeGym\BaiTapCodeGym\ReadWriteFileXM\bin\Debug\ReadWriteFileXM.pdb
+D:\visual studio\BaiTapCodeGym\BaiTapCodeGym\ReadWriteFileXM\obj\Debug\ReadWriteFileXM.csproj.AssemblyReference.cache
+D:\visual studio\BaiTapCodeGym\BaiTapCodeGym\ReadWriteFileXM\obj\Debug\ReadWriteFileXM.csproj.CoreCompileInputs.cache
+D:\visual studio\BaiTapCodeGym\BaiTapCodeGym\ReadWriteFileXM\obj\Debug\ReadWriteFileXM.exe
+D:\visual studio\BaiTapCodeGym\BaiTapCodeGym\ReadWriteFileXM\obj\Debug\ReadWriteFileXM.pdb
