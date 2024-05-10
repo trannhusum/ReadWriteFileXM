@@ -24,7 +24,7 @@ namespace ReadWriteFileXM
                 book.Price = 123.5f;
                 try
                 {
-                    XDocument xDoc = XDocument.Load("books.xml");
+                    XDocument xDoc = XDocument.Load("D:\\visual studio\\BaiTapCodeGym\\BaiTapCodeGym\\ReadWriteFileXM\\books.xml");
                     XElement newBook = new XElement("book",
                     new XElement("title", book.Title),
                     new XElement("price", book.Price.ToString()));
